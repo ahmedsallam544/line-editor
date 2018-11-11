@@ -25,6 +25,7 @@ void textAti(int FontC, int BackC)
 void gotoxy(int col, int row)
 {
     // hello
+    // hjhkj
     COORD coord= {0,0};
     coord.X = col;
     coord.Y = row;
